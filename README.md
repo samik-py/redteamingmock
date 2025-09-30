@@ -6,7 +6,7 @@ Minimal infrastructure + repo skeleton for project.
 - `docs`: Documentation work
 
 ## Folder Layout
-/attacks -> attack simulations / code
-/data -> datasets (raw / processed)
-/results -> experiment outputs
-/docs -> project documentation
+- `/attacks` -> attack simulations / code
+- `/data` -> datasets (raw / processed)
+- `/results` -> experiment outputs
+- `/docs` -> project documentation
